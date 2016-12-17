@@ -24,4 +24,6 @@ abstract: null
 
 # Introduction
 
+Following @Buchanan1964, I ask the question: "what should _financial_ economists do?"  
+
 

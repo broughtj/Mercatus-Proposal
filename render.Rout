@@ -32,4 +32,4 @@ Output created: What-Should.pdf
 > 
 > proc.time()
    user  system elapsed 
-  1.124   0.568   1.425 
+  1.152   0.544   1.184 

@@ -1,0 +1,7 @@
+# ignore files of the following types
+*.log
+*.Rout
+*.pdf
+*.html
+*.aux
+
