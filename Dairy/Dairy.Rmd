@@ -1,32 +1,32 @@
 ---
-title: "The Political Economy of Nonlinear Dynamics in the Dairy Markets"
-author:
-- affiliation: Utah State University
-  name: Tyler J. Brough
-date: "December 16, 2016"
-output:
+output: 
   pdf_document:
     citation_package: natbib
-    fig_caption: yes
-    keep_tex: yes
+    keep_tex: true
+    fig_caption: true
     latex_engine: pdflatex
-    template: ./svm-latex-ms.tex
-  html_document: default
-biblio-style: apsr
+    template: ./template.tex
+title: "The Political Economy of Nonlinear Dynamics in Dairy Prices"
+author:
+- name: Tyler J. Brough
+  affiliation: Utah State University
+abstract: "In this project ..." 
+keywords: "derivatives markets, dairy markets, nonlinear dynamics, price discovery, signal processing"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+geometry: margin=1in
 fontfamily: mathpazo
 fontsize: 11pt
-geometry: margin=1in
-keywords: derivatives markets, nonlinear time series, public choice 
-  methods
+spacing: double
 bibliography: ./master.bib
-abstract: null
+biblio-style: apsr
 ---
+
 
 # Introduction
 
-In this project I focus on the nonlinear dynamic features of prices in dairy markets and their relation to policies put
-in place over time by regulators. It's a total cluster cuss!
-
-
-
+In this project, I examine the many observed stylized empirical facts of dairy market spot, futures, and options prices
+and relate them to the various dairy market policies that have been put in place over the years to regulate dairy
+product prices. I argue that although the intended consequences of the policies are to stabilize dairy market prices,
+these policies have had the exact opposite effect and have resulted in highly volatile prices with many observable
+nonliear dynamic features.  
 

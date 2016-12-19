@@ -1,29 +1,31 @@
 ---
-title: "What Should Financial Economists Do?"
-author:
-- affiliation: Utah State University
-  name: Tyler J. Brough
-date: "December 16, 2016"
-output:
+output: 
   pdf_document:
     citation_package: natbib
-    fig_caption: yes
-    keep_tex: yes
+    keep_tex: true
+    fig_caption: true
     latex_engine: pdflatex
-    template: ./svm-latex-ms.tex
-  html_document: default
-biblio-style: apsr
+    template: ./template.tex
+title: "What Should _Financial_ Economists Do?"
+author:
+- name: Tyler J. Brough
+  affiliation: Utah State University
+abstract: "In this essay I argue for a stronger link between the Austrian School and financial economics."
+keywords: "Austrian school, financial economics, catallactics"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+geometry: margin=1in
 fontfamily: mathpazo
 fontsize: 11pt
-geometry: margin=1in
-keywords: Austrian school, financial economics, arbitrage, pattern prediction, empirical
-  methods
+spacing: double
 bibliography: ./master.bib
-abstract: null
+biblio-style: apsr
 ---
+
 
 # Introduction
 
-Following @Buchanan1964, I ask the question: "what should _financial_ economists do?"  
+Following @Buchanan1964, I ask the question: "what should _financial_ economists do?" In his origin essay, Buchanan
+argued for an economic methodology that was focused on exchange rather than the narrow problem of economic optimization. Unfortunately (I believe), the mainstream of the profession's efforts have been to build upon the optimization paradigm, and Buchanan's methodological advice has gone largely unheeded. Though this is true in general, there have been areas in which the exchange paradigm has taken hold. A prime example of this is the development of financial market microstructure. 
 
 
+In this discussion between Hayek and Buchanan [@BuchananHayek] ...
