@@ -25,8 +25,8 @@ Dybvig, Philip~H. \harvardand\ Stephen~A. Ross. 1989.
 \newblock Arbitrage.  In {\em The New Palgrave Dictionary of Economics}.
 \newblock Palgrave Macmillan UK.
 
-\harvarditem{Engle \harvardand\ Clive}{1987}{EngleGranger1987}
-Engle, Robert~F. \harvardand\ Granger Clive. 1987.
+\harvarditem{Engle \harvardand\ Granger}{1987}{EngleGranger1987}
+Engle, Robert~F. \harvardand\ Clive Granger. 1987.
 \newblock ``Co-integration and Error Correction: Representation, Estimation and
   Testing.'' {\em Econometrica} 55(2):251--276.
 
@@ -71,10 +71,10 @@ Koop, Gary. 2006.
 \newblock {\em Bayesian Econometrics}.
 \newblock John Wiley \& Sons, Ltd.
 
-\harvarditem{Liu}{N.d.}{Liu2005}
-Liu, Qingfeng~"Wilson". N.d.
+\harvarditem{Liu}{2005}{Liu2005}
+Liu, Qingfeng~"Wilson". 2005.
 \newblock ``Price Relations Among Hog, Corn, and Soybeen Meal Futures.'' {\em
-  The Journal of Futures Markets}. Forthcoming.
+  The Journal of Futures Markets} 25(5):491--514.
 
 \harvarditem{Mulligan}{2005}{Mulligan2005}
 Mulligan, Robert~F. 2005.
@@ -92,6 +92,11 @@ Spulber, Daniel~F. 1999.
 \newblock {\em Market Microstructure: Intermediaries and the Theory of the
   Firm}.
 \newblock Cambridge University Press.
+
+\harvarditem{Varian}{1987}{Varian1987}
+Varian, Hal~R. 1987.
+\newblock ``The Arbitrage Principle in Financial Economics.'' {\em The Journal
+  of Economic Perspectives} 1(2):55--72.
 
 \harvarditem{Vives}{2010}{Vives2010}
 Vives, Xavier. 2010.
