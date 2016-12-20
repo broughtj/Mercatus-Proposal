@@ -10,7 +10,7 @@ title: "The Political Economy of Nonlinear Dynamics in Dairy Prices"
 author:
 - name: Tyler J. Brough
   affiliation: Utah State University
-abstract: "In this project ..." 
+abstract: "In this project I investigate the nonlinear dynamics of dairy spot and derivative markets prices. I relate these dynamics to policies by regulators." 
 keywords: "derivatives markets, dairy markets, nonlinear dynamics, price discovery, signal processing"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 geometry: margin=1in
@@ -29,4 +29,53 @@ and relate them to the various dairy market policies that have been put in place
 product prices. I argue that although the intended consequences of the policies are to stabilize dairy market prices,
 these policies have had the exact opposite effect and have resulted in highly volatile prices with many observable
 nonliear dynamic features.  
+
+This project is still very nascent. This proposal is a barebones outline of the project as currently conceived.
+
+
+## Empirical Features of Dairy Market Prices
+
+Dairy spot and futures prices exhibit many interesting features from the perspective of time series econometrics and
+financial theory:
+
+  * Dairy prices exhibit extreme volatility
+  * Dairy prices exhibit time varying volatility and other parameters
+  * Dairy prices exhibit many structural breaks
+  * Dairy prices exhibit extreme non-Gaussianity
+
+In sum, there are many nonlinear and complex dynamic features in dairy spot and derivatives prices. I will seek to
+demonstrate that government regulatory policies have been anything other than stabilizing. From the perspective of the
+informational role of prices due to @Hayek1945, this unsurprising. Regulators do not possess all of the vast information
+that would be required to actually successfully regulate and stabalize prices. Much of the complex dynamics exhibited in
+dairy market prices are likely due to market participants seeking to process their local information in the process of
+the noise added by government regulations.
+
+
+## Dairy Market Price Data
+
+I am now collecting dat from the Commodity Research Bureau (CRB) for all historical dairy spot, future and options
+markets. This will result in a quite massive dataset. Efficient data processing techniques are currently being
+investigated. See @WuBethelGuLeinweberRubel for example. 
+
+
+## Empirical Methods
+
+The econometric methods that will be used in this study include the following:
+
+  * The Bayesian prior predictive and posterior predictive methods of @GewekeBook2 and @LancasterBook.
+  * The Markov-switching Bayesian vector error-correction model of @JochmannKoop2015.
+  * The Multivariate Singular Spectrum Analysis due to @HassaniThomakos2010.
+
+The objective of the empirical analysis is to decompose the time series signal into its various components, and to
+estimate the structural break points. My prior is that they will line up well with policy changes. 
+
+
+## Summary
+
+I believe that I will be able to get at least two published articles from this effort. The first will focus on the econometrics of signal processing of the dairy prices series. The second will focus on the political economy of dairy
+market regulations. 
+
+The project has deep connections to what I call the Hayekian approach to finance that is outlined in my other proposals.
+
+
 

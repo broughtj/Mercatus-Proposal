@@ -1,0 +1,25 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{Hassani \harvardand\ Thomakos}{2010}{HassaniThomakos2010}
+Hassani, Hossein \harvardand\ Dimitrios Thomakos. 2010.
+\newblock ``A Review on Singular Spectrum Analysis for Economic and Financial
+  Time Series.'' {\em Statistics and Its Interface} 3:377--397.
+
+\harvarditem{Hayek}{1945}{Hayek1945}
+Hayek, Friedrich~A. 1945.
+\newblock ``The Use of Knowledge in Society.'' {\em The American Economic
+  Review} 35(4):519--530.
+
+\harvarditem{Jochmann \harvardand\ Koop}{2015}{JochmannKoop2015}
+Jochmann, Markus \harvardand\ Gary Koop. 2015.
+\newblock ``Regime-Switching Cointegration.'' {\em Studies in Nonlinear
+  Dynamics \& Econometrics} 19(1):35--48.
+
+\harvarditem[Wu et~al.]{Wu, Bethel, Gu, Leinweber \harvardand\
+  R{\"u}bel}{2013}{WuBethelGuLeinweberRubel}
+Wu, Kesheng, E Bethel, Ming Gu, David Leinweber \harvardand\ Oliver R{\"u}bel.
+  2013.
+\newblock ``A Big Data Approach to Analyzing Market Volatility.'' {\em
+  Algorithmic Finance} 2(3-4):241--267.
+
+\end{thebibliography}
