@@ -24,9 +24,9 @@ biblio-style: apsr
 
 # Introduction
 
-In this project, I examine the many observed stylized empirical facts of dairy market spot, futures, and options prices
+In this project, I examine the many observed empirical facts of dairy market spot, futures, and options prices
 and relate them to the various dairy market policies that have been put in place over the years to regulate dairy
-product prices. I argue that although the intended consequences of the policies are to stabilize dairy market prices,
+products. I argue that although the intended consequences of the policies are to stabilize dairy market prices,
 these policies have had the exact opposite effect and have resulted in highly volatile prices with many observable
 nonliear dynamic features.  
 
@@ -39,7 +39,7 @@ Dairy spot and futures prices exhibit many interesting features from the perspec
 financial theory:
 
   * Dairy prices exhibit extreme volatility
-  * Dairy prices exhibit time varying volatility and other parameters
+  * Dairy prices exhibit time-varying volatility and other parameters
   * Dairy prices exhibit many structural breaks
   * Dairy prices exhibit extreme non-Gaussianity
 
@@ -47,20 +47,20 @@ In sum, there are many nonlinear and complex dynamic features in dairy spot and 
 demonstrate that government regulatory policies have been anything other than stabilizing. From the perspective of the
 informational role of prices due to @Hayek1945, this unsurprising. Regulators do not possess all of the vast information
 that would be required to actually successfully regulate and stabalize prices. Much of the complex dynamics exhibited in
-dairy market prices are likely due to market participants seeking to process their local information in the process of
+dairy market prices are likely due to market participants seeking to process their local information in the presence of
 the noise added by government regulations.
 
 
 ## Dairy Market Price Data
 
-I am now collecting dat from the Commodity Research Bureau (CRB) for all historical dairy spot, future and options
+I am now collecting data from the Commodity Research Bureau (CRB) for all historical dairy spot, futures and options
 markets. This will result in a quite massive dataset. Efficient data processing techniques are currently being
 investigated. See @WuBethelGuLeinweberRubel for example. 
 
 
 ## Empirical Methods
 
-The econometric methods that will be used in this study include the following:
+The empirical methods that will be employed in this study include the following:
 
   * The Bayesian prior predictive and posterior predictive methods of @GewekeBook2 and @LancasterBook.
   * The Markov-switching Bayesian vector error-correction model of @JochmannKoop2015.
@@ -72,8 +72,7 @@ estimate the structural break points. My prior is that they will line up well wi
 
 ## Summary
 
-I believe that I will be able to get at least two published articles from this effort. The first will focus on the econometrics of signal processing of the dairy prices series. The second will focus on the political economy of dairy
-market regulations. 
+I believe that I will be able to get at least two published articles from this effort. The first will focus on the econometrics of signal processing of the dairy price series. The second will focus on the political economy of dairy market regulations, relying on the empirical findings of the first paper. 
 
 The project has deep connections to what I call the Hayekian approach to finance that is outlined in my other proposals.
 
